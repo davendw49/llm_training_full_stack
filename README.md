@@ -10,9 +10,9 @@ note: The list of topics will be improved over time, the first version is used f
 
 ## [LLM Model Setup](./llm_model_setup/)
 
-## [LLM_PreTraining](./llm_pretraining/)
+## [LLM Pre-Training](./llm_pretraining/)
 
-## [LLM PostTraining](./llm_posttraining/)
+## [LLM Post-Training](./llm_posttraining/)
 
 ## [LLM Deployment](./llm_deployment/)
 
