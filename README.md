@@ -1,4 +1,4 @@
-# 📖 Full Stack Practice of the Large Language Model Training
+# 📖 Hands-on LLM: A Full-Stack LLM Practise Training
 
 A full stack practice to train a large language model @ RLChina 2024. The overview is shown as follows:
 
